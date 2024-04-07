@@ -1,0 +1,19 @@
+{
+    "Products": [
+        {
+            "item": "item001",
+            "name": "bag",
+            "price": 10
+        },
+        {
+            "item": "item001",
+            "name": "nature",
+            "price": 5
+        },
+        {
+            "item": "item001",
+            "name": "shoe",
+            "price": 9.67
+        }
+    ]
+}
